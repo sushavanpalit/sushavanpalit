@@ -1,31 +1,22 @@
 <h1 align="center">Hello World!👋 I'm Sushavan Palit.👨‍💻</h1>
 <h3 align="center"><i>A third year CSE student from Jalpaiguri Government Engineering College</i></h3>
 
-
 <p align="center">
-  <img src="https://badges.pufler.dev/visits/sushavanpalit/sushavanpalit">
-  <img src="https://badges.pufler.dev/years/sushavanpalit">
-  <img src="https://badges.pufler.dev/updated/sushavanpalit/sushavanpalit">
-  <img src="https://badges.pufler.dev/created/sushavanpalit/sushavanpalit">
-  <img src="https://badges.pufler.dev/repos/sushavanpalit">
-  <img src="https://badges.pufler.dev/commits/monthly/sushavanpalit">
   <img src="https://komarev.com/ghpvc/?username=sushavanpalit&label=Profile%20views&color=red&style=flat"/>
 </p>
-
 
 <p align="center">
   <img src="./images/coder.png">
 </p>
 
-
 ### About Me :
+
 - 👨🏻‍🎓 I’m currently pursuing B.Tech in Computer Science Engineering 💻
 - 🌱 I’m currently learning Web Development
 - 🤝 I’m looking to collaborate with other developers and build cool projects
 - 🎯 Goals: Learning DSA as well as Web Development.
 - 📫 How to reach me **sp2430@cse.jgec.ac.in**
 - ⚡ Fun fact: I watch movies a lot
-
 
 ### Connect with me :
 
@@ -35,6 +26,7 @@
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sushavanpalit_07)
 
 ### Languages and Tools :
+
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
