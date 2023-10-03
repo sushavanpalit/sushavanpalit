@@ -1,5 +1,5 @@
 <h1 align="center">Hello World!👋 I'm Sushavan Palit.👨‍💻</h1>
-<h3 align="center"><i>A third year CSE student from Jalpaiguri Government Engineering College</i></h3>
+<h3 align="center"><i>A 4th year CSE student from Jalpaiguri Government Engineering College</i></h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sushavanpalit&label=Profile%20views&color=red&style=flat"/>
